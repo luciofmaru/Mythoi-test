@@ -1,0 +1,19 @@
+{
+  "MythoiMusic": "20240717",
+  "Music": "true",
+  "Genre": "opera",
+  "Content": "Music and lyrics",
+  "Languages": "english",
+  "PublicDomain": "no",
+  "Samples": "no",
+  "Publishers": "yes",
+  "Publisher": "Mythoi Music",
+  "FullName": "Mary Lucia Darst",
+  "Role": "Composer/Author",
+  "ProNumber": "000000",
+  "ProAffiliation": "ASCAP",
+  "WritersShare": "200",
+  "Artists": "no",
+  "Recordings": "no",
+  "Film": "no"
+}
